@@ -1,2 +1,2 @@
 # website
-Studio Decentral Website
+SD Site
